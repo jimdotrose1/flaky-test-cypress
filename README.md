@@ -61,5 +61,7 @@ Author: Gleb Bahmutov &lt;gleb.bahmutov@gmail.com&gt; &copy; 2024
 
 License: MIT - do anything with the code, but don't blame me if it does not work.
 
+run a pipeline
+
 Support: if you find any problems with this module, email / tweet /
 [open issue](https://github.com/bahmutov/flaky-test-cypress/issues) on Github
